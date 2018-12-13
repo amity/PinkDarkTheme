@@ -1,0 +1,30 @@
+{
+  "description": "",
+  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQCIJJ5oOfhOAaFDBFRD0WbN14C0Xeyhsik8biVAJ/CAdVvooWDYUswtZCVwIlKGVcXqbvaDHWifMhMT6rDQAZBIHB8EEOEpkBgersPs3D1QRPE6vjBKffgLrlnSbYdtoTaaE82PlQUD+WKyaM1lsbcZHs9i2zYP7cP6WPsh6shQIDAQAB",
+  "manifest_version": 2,
+  "name": "CustomTheme",
+  "theme": {
+    "colors": {
+      "background_tab": [51, 51, 51, 0.3],
+      "background_tab_inactive": [51, 51, 51],
+      "bookmark_text": [0, 0, 0],
+      "button_background": [0, 0, 0, 0],
+      "frame": [117, 46, 60],
+      "frame_inactive": [51, 51, 51],
+      "ntp_background": [51, 51, 51],
+      "ntp_text": [245, 169, 184],
+      "tab_background_text": [78, 78, 78],
+      "tab_text": [0, 0, 0],
+      "toolbar": [235, 149, 164, 0.3]
+    },
+    "properties": {
+      "ntp_background_alignment": "top",
+      "ntp_background_repeat": "repeat"
+    },
+    "tints": {
+      "buttons": [0.68, 0.71, 0.52]
+    }
+  },
+  "update_url": "http://clients2.google.com/service/update2/crx",
+  "version": "1"
+}
